@@ -50,8 +50,8 @@ if($Feedback == '')
     echo '<th>Poster</th>';
     echo '<th>Movie</th>';
     echo '<th>Rating</th>';
-    echo '<th>Description</th>';
     echo '<th>Release Year</th>';
+    echo '<th>Description</th>';
     echo '</tr>';
     echo '<tr>';
     echo '<td><img src="uploads/movie' . $id . '.jpg"></td>';

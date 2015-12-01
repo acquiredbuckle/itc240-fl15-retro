@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Website template by freewebsitetemplates.com -->
 <head>
 	<title><?=$title?></title>
 	<meta charset="utf-8">
